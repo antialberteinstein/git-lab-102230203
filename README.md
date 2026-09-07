@@ -4,5 +4,6 @@
 - Họ tên: Trần Nhật Nguyên
 - MSSV: 102230203
 - Lớp: 23T_DT1
+- GitHub: antialberteinstein
 ## Mục tiêu
 Tìm hiểu Git và GitHub.
